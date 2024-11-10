@@ -96,7 +96,7 @@ void start_windows()      //the starting screen//
     char s2[]="PRESS ANY KEY TO CONTINUE";
     char s3[]="Choose the game you want to play.";
 
-    char s5[]="HERE ARE SOME GAMES THAT ARE AVAILABLE.";
+    char s5[]="THERE ARE SOME GAMES THAT ARE AVAILABLE.";
 
 
 
